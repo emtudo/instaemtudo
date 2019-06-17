@@ -1,9 +1,8 @@
 # Estudo de nodejs + react + react native
 
-Projeto para estudos de Nodejs + React React Native
+Projeto para estudos de Nodejs + ReactJs + React Native
 
 Criar um projeto inspirado no Instagram, apenas de teste, nada completo.
-
 
 ## Executando
 
