@@ -1,0 +1,6 @@
+module.exports = {
+    connection: 'mongodb+srv://USER:PASSWORD@HOST/test?retryWrites=true&w=majority',
+    params: {
+        useNewUrlParser: true,
+    }
+}
